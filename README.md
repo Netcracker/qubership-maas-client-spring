@@ -1,18 +1,7 @@
-[![Maven build](https://github.com/Netcracker/qubership-maas-client-spring/actions/workflows/maven-deploy.yml/badge.svg)](https://github.com/Netcracker/qubership-maas-client-spring/actions/workflows/maven-deploy.yml)
-[![Coverage](https://sonarcloud.io/api/project_badges/measure?metric=coverage&project=Netcracker_qubership-maas-client-spring)](https://sonarcloud.io/summary/overall?id=Netcracker_qubership-maas-client-spring)
-[![duplicated_lines_density](https://sonarcloud.io/api/project_badges/measure?metric=duplicated_lines_density&project=Netcracker_qubership-maas-client-spring)](https://sonarcloud.io/summary/overall?id=Netcracker_qubership-maas-client-spring)
-[![vulnerabilities](https://sonarcloud.io/api/project_badges/measure?metric=vulnerabilities&project=Netcracker_qubership-maas-client-spring)](https://sonarcloud.io/summary/overall?id=Netcracker_qubership-maas-client-spring)
-[![bugs](https://sonarcloud.io/api/project_badges/measure?metric=bugs&project=Netcracker_qubership-maas-client-spring)](https://sonarcloud.io/summary/overall?id=Netcracker_qubership-maas-client-spring)
-[![code_smells](https://sonarcloud.io/api/project_badges/measure?metric=code_smells&project=Netcracker_qubership-maas-client-spring)](https://sonarcloud.io/summary/overall?id=Netcracker_qubership-maas-client-spring)
+# Archived
 
-# maas-client-spring
+This repository is archived. No new commits should be made here.
 
-## Module `maas-client-spring`
+All source code and git history has been moved to the monorepo [qubership-core-java-libs](https://github.com/Netcracker/qubership-core-java-libs/).
 
-This module provides beans that needed for all spring applications that requires maas features.
-
-## Module `maas-client-rabbit-spring`
-
-This module rely on `maas-client-spring` module and add features for RabbitMQ maas support.
-For detailed manual, refer to [maas client rabbit spring docs](./maas-client-spring-rabbit/README.md)
-
+> **Note:** This repository is preserved solely for publishing Maven artifacts. Please do not delete it.
